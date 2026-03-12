@@ -6,7 +6,7 @@ if [ -z "$TESTRELDIR" ]; then
 else
   export INSTDIR="$TESTRELDIR"
 fi
-
+####
 cmake_option="RelWithDebInfo"
 pyInstallStyle="develop"
 psana_setup_args=""
