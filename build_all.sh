@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# chnag
 set -e
 
 BUILDDIR=builddir
